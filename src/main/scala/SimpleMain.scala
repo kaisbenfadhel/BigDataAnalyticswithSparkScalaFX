@@ -1,6 +1,6 @@
 
 object SimpleMain {
 	def main(args: Array[String]):Unit = {
-		println("Let's do some data analytics!")
+		println("Analyse de l'effet du méteo sur les accidents a Bordeaux !!")
 	}
 }
